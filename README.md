@@ -6,7 +6,7 @@
 <h2 align="center"><u>Detalles Personales</u></h2>
 <p align="center">
 
- - Actualmente aprendiendo Java, y css. Teniendo conocimiento y experiencia solidas en lógica programacional en php, Lua y c++. 
+ - Actualmente aprendiendo Java. Teniendo conocimiento y experiencia solidas en lógica programacional en php, Lua y c++. 
 
  - Mi hobby es leer libros, escuchar música, programar mini proyectos.
 
