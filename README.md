@@ -90,7 +90,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-or
 | ---------------------------------|--------------------------------------------------------------- |
 | _[Encripte Text](https://nestor36.github.io/challenge_encriptador)_            | Encrypt or decrypt, in js..             |
 | _[Bot ChatGPT TLG](https://github.com/Nestor36/BOT-Telegram-ChatGPT)_          | Bot for telegram, with the chatgpt api.     |
-| _[Gang system](https://github.com/KasRoudra/YT-Downloader)_                    | Full code banding system          |
+| _[Gang system](https://github.com/Nestor36/gx_gangwar)_                    | Full code banding system          |
 
 <h4 align="center">All of these are open source!</h4>
 
